@@ -181,7 +181,7 @@
 			<key>AvoidRuntimeDefrag</key>
 			<true/>
 			<key>DevirtualiseMmio</key>
-			<false/>
+			<true/>
 			<key>DisableSingleUser</key>
 			<false/>
 			<key>DisableVariableWrite</key>
@@ -199,7 +199,7 @@
 			<key>ProtectSecureBoot</key>
 			<false/>
 			<key>ProtectUefiServices</key>
-			<false/>
+			<true/>
 			<key>ProvideCustomSlide</key>
 			<true/>
 			<key>RebuildAppleMemoryMap</key>
@@ -209,7 +209,7 @@
 			<key>SignalAppleOS</key>
 			<false/>
 			<key>SyncRuntimePermissions</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -222,13 +222,11 @@
 				<data>AQAAAA==</data>
 			</dict>
 			<key>AAPL,ig-platform-id</key>
-			<data>AwAiDQ==</data>
+			<data>BwCbPg==</data>
 			<key>framebuffer-patch-enable</key>
 			<data>AQAAAA==</data>
 			<key>framebuffer-stolenmem</key>
 			<data>AAAwAQ==</data>
-			<key>framebuffer-fbmem</key>
-			<data>AACQAA==</data>
 			<key>device-id</key>
 			<data>EgQAAA==</data>
 		</dict>
@@ -586,7 +584,7 @@
 			<key>ApplePanic</key>
 			<true/>
 			<key>DisableWatchDog</key>
-			<false/>
+			<true/>
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
@@ -659,7 +657,7 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
 				<key>DefaultBackgroundColor</key>
-				<data>AAAAAA==</data>
+				<data>v7+/AA==</data>
 				<key>UIScale</key>
 				<data>AQ==</data>
 			</dict>
